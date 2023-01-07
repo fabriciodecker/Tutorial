@@ -6,4 +6,5 @@ versao 5 ticket02
 versao 6 - tentando retirar o versao 3
 versao 7 - ticket03, ticket03-2
 versao 8
-versao 9
+
+versao 10 - ticket04 - vou sobrescrever e apagar a versao 9
